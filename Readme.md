@@ -40,7 +40,7 @@
 ## 📌 Projects
 
 ### 🔹 Insurance Premium Prediction  
-ML model to predict insurance cost with FastAPI backend and Streamlit frontend.
+ML model to predict insurance cost with FastAPI Backend and Streamlit frontend.
 
 ### 🔹 FastAPI ML Backend  
 REST API serving trained ML models.
@@ -54,8 +54,9 @@ Exploratory data analysis using Pandas & NumPy.
 
 ## 📊 GitHub Stats
 
-![Popprash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=popprash&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=popprash&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats-sand-mu-27.vercel.app/api?username=popprash&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Languages](https://github-readme-stats-sand-mu-27.vercel.app/api/top-langs/?username=popprash&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
