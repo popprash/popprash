@@ -68,4 +68,8 @@ Exploratory data analysis using Pandas & NumPy.
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/popprash/popprash/output/snake.svg)
+
 ⭐ If you like my work, consider starring my repositories!
