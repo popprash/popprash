@@ -54,8 +54,6 @@ Exploratory data analysis using Pandas & NumPy.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Popprash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=popprash&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=popprash&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -63,8 +61,9 @@ Exploratory data analysis using Pandas & NumPy.
 
 ## 📫 Contact
 
-- Email: your-email@gmail.com  
-- LinkedIn: https://linkedin.com/in/yourname  
+- Email: jeezyprash@gmail.com  
+- X: https://x.com/PChhetry68179  
+
 
 ---
 
