@@ -54,7 +54,10 @@ Exploratory data analysis using Pandas & NumPy.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrashantChhetry&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Popprash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=popprash&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=popprash&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
