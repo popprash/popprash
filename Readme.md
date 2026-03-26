@@ -24,6 +24,7 @@
 - SQL  
 - javascript
 - kotlin
+- Java
 
 
 **Frameworks & Tools**  
