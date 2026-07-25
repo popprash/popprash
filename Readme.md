@@ -1,76 +1,54 @@
-# Hi 👋 I'm Prashant Chhetry  
+# Hi, I'm Prashant Chhetry 👋
 
-🎓 BTech CSE Student  
-💻 Machine Learning & Backend Developer  
-🚀 Passionate about building real-world projects  
+Software Engineer focused on building scalable full-stack applications, modern web experiences, and AI-powered software.
 
----
+## Tech Stack
 
-## 👨‍💻 About Me
+**Frontend**
 
-- 🔭 Working on ML-powered web applications  
-- 🧠 Interested in Machine Learning, Backend Systems & APIs  
-- 🛠 Comfortable with Python, C++, Linux, and system-level concepts  
-- 🌱 Currently learning advanced ML and backend architecture  
-- 🎯 Goal: Become a skilled software engineer  
+React • Next.js • React Native (Expo) • Tailwind CSS • TypeScript
 
----
+**Backend**
 
-## ⚙️ Tech Stack
+Node.js • Express.js • MongoDB • REST APIs • Socket.IO
 
-**Languages**  
-- Python  
-- C++  
-- SQL  
-- javascript
-- kotlin
-- Java
+**AI**
 
+LangChain • LangGraph • LangSmith • RAG • Groq API
 
-**Frameworks & Tools**  
-- FastAPI  
-- Streamlit  
-- NumPy  
-- Pandas  
-- Scikit-learn  
-- Git & GitHub  
-- Linux  
+**Tools**
 
----
+Git • Docker • Linux • Postman
 
-## 📌 Projects
+## Featured Projects
 
-### 🔹 Insurance Premium Prediction  
-ML model to predict insurance cost with FastAPI Backend and Streamlit frontend.
+🚀 Squawk
+Real-time chat application built with MERN, Socket.IO, and Clerk Authentication.
 
-### 🔹 FastAPI ML Backend  
-REST API serving trained ML models.
+🎬 Netflix Clone
+Full-stack streaming platform powered by the TMDB API.
 
-### 🔹 Data Analysis Projects  
-Exploratory data analysis using Pandas & NumPy.
+🤖 AI Chatbot
+Agentic AI assistant built with LangGraph, LangChain, LangSmith, and RAG.
 
-*(More projects coming soon...)*
+🎥 Movie Discovery
+Movie discovery platform with custom trending analytics using Appwrite.
+
+## Links
+
+🌐 Portfolio
+https://personal-portfolio-delta-two-78.vercel.app
+
+💼 LinkedIn
+https://www.linkedin.com/in/prashdeveloperurl/
+
+📫 Email
+prashantchh.dev@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+![](https://github-readme-stats-sand-mu-27.vercel.app/api?username=popprash&show_icons=true&hide_border=true)
 
-![Stats](https://github-readme-stats-sand-mu-27.vercel.app/api?username=popprash&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats-sand-mu-27.vercel.app/api/top-langs/?username=popprash&layout=compact&hide_border=true)
 
-![Languages](https://github-readme-stats-sand-mu-27.vercel.app/api/top-langs/?username=popprash&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Contact
-
-- Email: jeezyprash@gmail.com  
-- X: https://x.com/PChhetry68179  
-
-
----
-
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/popprash/popprash/output/snake.svg)
-
-⭐ If you like my work, consider starring my repositories!
+![](https://raw.githubusercontent.com/popprash/popprash/output/snake.svg)
