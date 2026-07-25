@@ -47,8 +47,8 @@ prashantchh.dev@gmail.com
 
 ---
 
-![](https://github-readme-stats-sand-mu-27.vercel.app/api?username=popprash&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=popprash&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats-sand-mu-27.vercel.app/api/top-langs/?username=popprash&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=popprash&layout=compact&theme=tokyonight&hide_border=true)
 
 ![](https://raw.githubusercontent.com/popprash/popprash/output/snake.svg)
