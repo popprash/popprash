@@ -1,4 +1,4 @@
-# Hi, I'm Prashant Chhetry 👋
+# Yo Prashant Chhetry here !!
 
 Software Engineer focused on building scalable full-stack applications, modern web experiences, and AI-powered software.
 
